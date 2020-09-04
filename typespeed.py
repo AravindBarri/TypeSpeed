@@ -1,4 +1,6 @@
 # Author: Aravind Barri (upsolvers labs) <upsolvers.labs@gmail.com>
+#Upsolvers Labs - Student Community & Development Services
+#Open Software Access for learning
 # github.com/AravindBarri/TypeSpeed
 
 """
